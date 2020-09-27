@@ -21,3 +21,4 @@ read.question("Enter n: ", function(n)
         read.close();   
 });
 
+      console.log("Olivia")
